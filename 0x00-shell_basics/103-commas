@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lmar[:alnum:]
+ls -la -m -r[:alnum:]
