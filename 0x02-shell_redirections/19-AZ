@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i 's/'A' and 'c'/'Z' and 'e'/g' 19-AZ
+sed -i 's/A and c/Z and e/g' 19-AZ
