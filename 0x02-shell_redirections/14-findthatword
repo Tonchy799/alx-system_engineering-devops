@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -e /etc/passwd | grep ^"root" | wc -l | sort
+fmt /etc/passwd | grep ^"root" | wc -l | sort
