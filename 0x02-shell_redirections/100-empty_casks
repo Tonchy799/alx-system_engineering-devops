@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | uniq
+ls -la | find . -type fd
