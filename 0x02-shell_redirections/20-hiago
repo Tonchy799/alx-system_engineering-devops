@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '/[C,c]/d'
+sed '/[C,c]/d' 20-hiago
