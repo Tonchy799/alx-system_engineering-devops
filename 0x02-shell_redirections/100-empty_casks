@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | find . -type fd
+ls -la | find . -type f -type d
